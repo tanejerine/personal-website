@@ -1,0 +1,39 @@
+/* Apply style to a general HTML tag */
+body {
+    font-family: Arial, sans-serif;
+    margin: 0;
+    padding: 0;
+    background-color: #f2f2f2;
+}
+
+/* ID selector */
+#intro {
+    background-color: #4CAF50;
+    color: white;
+    padding: 20px;
+    text-align: center;
+}
+
+/* Class selector */
+.section {
+    background-color: white;
+    margin: 20px;
+    padding: 20px;
+    border-radius: 10px;
+}
+
+/* Link styling and hover */
+a {
+    color: yellow;
+    text-decoration: none;
+}
+
+a:hover {
+    color: orange;
+}
+
+/* Image styling */
+img {
+    margin-top: 10px;
+    border-radius: 8px;
+}
